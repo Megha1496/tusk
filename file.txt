@@ -5,5 +5,8 @@ javatpoint
 GeeksOfGeek
 Tutorialpoint
 
+journalDev
+BeginnerBook.com
+
 
 Thankyou:)
